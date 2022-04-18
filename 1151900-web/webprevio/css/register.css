@@ -1,0 +1,46 @@
+#form{
+    width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+  border: 1px solid #7AABAE;
+}
+
+h1{
+    text-align: center;
+	padding-top: 20px;
+  width: 100%;
+}
+
+.controls{
+    width: 90%;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  } 
+
+
+
+
+  #boton-guardar{
+    width: 100px;
+    margin-left: 40%;
+    transform: translateX(-50%);
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    background: #0f141a;
+    border: 1px solid #7AABAE;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
